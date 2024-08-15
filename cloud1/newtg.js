@@ -5,7 +5,7 @@
 
             let currentUrl = window.location.href;
             const replacements = [
-                { from: "https://csnew4.cskinglk.xyz/tnganuwpxppzfymytsqr/202401/", to: "https://csnew4.cskinglk.xyz/tnganuwpxppzfymytsqr/202503/" },
+                { from: "https://csnew4.cskinglk.xyz/tnganuwpxppzfymytsqr/202401/", to: "https://csnew4.cskinglk.xyz/tnganuwpxppzfymytsqr/202503zzz/" },
                 { from: "https://csnew4.cskinglk.xyz/tnganuwpxppzfymytsqr/202402/", to: "https://csnew4.cskinglk.xyz/tnganuwpxppzfymytsqr/202503/" },
                 { from: "https://csnew4.cskinglk.xyz/tnganuwpxppzfymytsqr/202403/", to: "https://csnew4.cskinglk.xyz/tnganuwpxppzfymytsqr/202503/" }
             ];
